@@ -1,5 +1,5 @@
 
-* This line is added on local host # Tech201-git-github
+
 Tech201-git-github
 ## Heading2
 ### Heading3
@@ -16,3 +16,4 @@ Tech201-git-github
 * Use command "nano" to edit the target file in the syntax- nano <file name>
 * Once finished editing inside, press CTRL + X , then Y, then ENTER
 (When in git bash nano, use arrow keys to move cursor)
+![](git.png)
