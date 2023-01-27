@@ -4,7 +4,7 @@ Tech201-git-github
 
 ### Making a directory on a local machine and pushing it to GitHub
 * Lets create our Markdown file
-* Use "mkdir" to create a directory
+* Use `mkdir` to create a directory
 * Use `cd <directory_name>/` to move into the directory (can use tab to autocomplete)
 * Check which directory you are in by using command `pwd`
 * To clone the git directory into local machine, copy repository link
