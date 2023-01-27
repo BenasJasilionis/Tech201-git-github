@@ -12,3 +12,6 @@ Tech201-git-github
 (Can use command "clear" to clean out the terminal)
 * Navigate into new directory using "cd"
 * Using "ls" should view the one file there - README.md
+* Use command "nano" to edit the target file in the syntax- nano <file name>
+* Once finished editing inside, press CTRL + X , then Y, then ENTER
+(When in git bash nano, use arrow keys to move cursor)
