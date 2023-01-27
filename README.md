@@ -21,6 +21,7 @@ Tech201-git-github
 * Use git status command to see files which are ready to be committed
 * Use git commit -m "describe the change"
 * Use git push -u (u stands for upstream) origin main ("main" is the target branch)
+* Using terminal method
 
 
 ![](git.png)
