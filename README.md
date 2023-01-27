@@ -29,7 +29,7 @@ Tech201-git-github
 * On the left side of the application, click the commit tab and tick the box for the file you want to push
 * In the chat box below, add your commit comments then click commit
 * Committed files can be visualised by clicking the git logo in the bottom left corner of PyCharm
-* To push, click the upward green arrow, edit target branch as needed, then click push.
+* To push, click the upward facing green arrow in the top right corner of PyCharm, edit target branch as needed, then click push.
 
 
 ![](git.png)
